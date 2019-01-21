@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <color name="about_libraries_accent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="about_libraries_primary">@*projekt.substratum:color/accent_material_light</color>
+    <color name="about_libraries_primary_dark">@*projekt.substratum:color/accent_material_light</color>
+    <color name="accent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="accent_material_dark">@*projekt.substratum:color/accent_material_light</color>
+    <color name="app_shortcut_icon_background_color">@*projekt.substratum:color/accent_material_light</color>
+    <color name="colorAccent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="design_textinput_error_color_dark">@*projekt.substratum:color/accent_material_light</color>
+    <color name="design_textinput_error_color_light">@*projekt.substratum:color/accent_material_light</color>
+    <color name="fab_background_color">@*projekt.substratum:color/accent_material_light</color>
+    <color name="floatui_dialog_button_color">@*projekt.substratum:color/accent_material_light</color>
+    <color name="material_drawer_accent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="material_drawer_dark_selected_text">@*projekt.substratum:color/accent_material_light</color>
+    <color name="material_drawer_primary">@*projekt.substratum:color/accent_material_light</color>
+    <color name="material_drawer_primary_dark">@*projekt.substratum:color/accent_material_light</color>
+    <color name="materialize_accent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="materialize_primary">@*projekt.substratum:color/accent_material_light</color>
+    <color name="materialize_primary_dark">@*projekt.substratum:color/accent_material_light</color>
+    <color name="materialize_primary_light">@*projekt.substratum:color/accent_material_light</color>
+    <color name="md_blue_700">@*projekt.substratum:color/accent_material_light</color>
+    <color name="primary">@*projekt.substratum:color/accent_material_light</color>
+    <color name="primary_light">@*projekt.substratum:color/accent_material_light</color>
+    <color name="purge_button">@*projekt.substratum:color/accent_material_light</color>
+    <color name="settings_title_color">@*projekt.substratum:color/accent_material_light</color>
+    <color name="slide_1">@*projekt.substratum:color/accent_material_light</color>
+    <color name="splashscreen_progress">@*projekt.substratum:color/accent_material_light</color>
+    <color name="theme_information_card_title">@*projekt.substratum:color/accent_material_light</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="accent">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="accent_material_dark">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="chart_area">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="confidence_active_negative_color">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="design_textinput_error_color_dark">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="design_textinput_error_color_light">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="material_deep_teal_200">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="material_deep_teal_500">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="primary">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+	<color name="snackbar_color">@*com.google.android.apps.playconsole:color/accent_material_light</color>
+</resources>

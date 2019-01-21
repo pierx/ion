@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@*com.android.settings:id/dashboard_tile"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:background="?android:selectableItemBackground"
+              android:clickable="true"
+              android:focusable="true"
+              android:gravity="center_vertical"
+              android:minHeight="@*com.android.settings:dimen/dashboard_tile_minimum_height">
+
+    <ImageView
+        android:id="@android:id/icon"
+        android:tint="@*com.android.settings:color/icon_accent"
+        android:layout_width="@*com.android.settings:dimen/dashboard_tile_image_size"
+        android:layout_height="@*com.android.settings:dimen/dashboard_tile_image_size"
+        android:layout_marginEnd="@*com.android.settings:dimen/dashboard_tile_image_margin_end"
+        android:layout_marginStart="@*com.android.settings:dimen/dashboard_tile_image_margin_start"
+        android:scaleType="centerInside"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@android:id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal"
+            android:singleLine="true"
+            android:textAppearance="@*com.android.settings:style/TextAppearance.TileTitle"/>
+
+        <TextView
+            android:id="@android:id/summary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingEnd="@*com.android.settings:dimen/dashboard_tile_image_margin_start"
+            android:textAppearance="@*com.android.settings:style/TextAppearance.Small"
+            android:textColor="?android:textColorSecondary"/>
+    </LinearLayout>
+</LinearLayout>

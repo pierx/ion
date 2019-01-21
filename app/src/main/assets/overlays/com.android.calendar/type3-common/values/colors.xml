@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="event_background">@*android:color/accent_material_dark</color>
+    <color name="calendar_grid_line_highlight_color">@*android:color/accent_material_dark</color>
+    <color name="event_center">@*android:color/accent_material_dark</color>
+    <color name="day_clicked_background_color">@*android:color/accent_material_dark</color>
+    <color name="accent">@*android:color/accent_material_dark</color>
+    <color name="blue">@*android:color/accent_material_dark</color>
+    <color name="darker_blue">@*android:color/accent_material_dark</color>
+    <color name="red">@*android:color/accent_material_dark</color>
+    <color name="chips_dropdown_background_activated">@*android:color/accent_material_dark</color>
+    <color name="chip_background_selected">@*android:color/accent_material_dark</color>
+    <color name="chip_background_invalid">@*android:color/accent_material_dark</color>
+</resources>

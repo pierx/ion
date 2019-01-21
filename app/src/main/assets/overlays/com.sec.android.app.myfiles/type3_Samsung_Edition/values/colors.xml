@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary_app">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="color_primary">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="color_primary_dark">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="color_control_activated">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="actionbar_title_text_color_theme">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="actionbar_text_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="actionbar_icon_back_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="actionbar_checkbox_on_enabled">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="actionbar_checkbox_off_enabled">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="select_all_bottom_bar_text_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="navigation_view_item_text_selected">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="listview_checkbox_on_enabled">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="myfiles_list_folder_icon_tint">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_device_storage_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_sd_card_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_usb_storage_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_google_drive_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_samsung_drive_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_recent_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_download_history_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_document_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_image_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_music_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_video_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_apk_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="home_icon_folder">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="split_handle_pressed">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="winset_list_item_text1_disabled">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="drag_drop_badge_icon_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="drag_drop_badge_text_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+    <color name="drag_drop_file_stroke_color">@*com.sec.android.app.myfiles:color/accent_material_light</color>
+</resources>

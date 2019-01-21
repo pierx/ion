@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_accent">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="link_blue">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="ob_click">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="photon_highlight">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="photon_loading_indicator_dark">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="photon_loading_indicator_light">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="photon_notification_bg">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="photon_text_selected_highlight">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="pwa_confirm_btn_normal">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="tab_item_normal_highlight_bg">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="tab_item_normal_highlight_bg_80">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="tab_queue_dismiss_button_foreground">@*org.mozilla.firefox:color/accent_material_light</color>
+    <color name="tablet_tab_strip_indicator">@*org.mozilla.firefox:color/accent_material_light</color>
+</resources>

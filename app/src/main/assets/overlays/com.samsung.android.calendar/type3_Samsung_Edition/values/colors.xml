@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="attendee_search_text_match_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="common_actionbar_back_icon_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="common_actionbar_menu_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="common_list_add_icon_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="common_selected_marker_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="common_today_number_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_card_common_text_button_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_card_eas_icon_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_card_location_map_delete_button_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_event_selectmap_location_icon_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_event_selectmap_location_icon_color_without_theme">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="edit_event_selectmap_marker_icon_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="floating_action_button_background_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="primary">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="primary_dark">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="search_list_text_match">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="subscription_calendar_header_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="subscription_header_add_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="tab_indicator_start_end_picker_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="task_undo_button_icon_tint_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="task_undo_button_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="top_sticker_more_button_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="update_card_button_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="weekly_button_text_color_check">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_header_button_light_theme">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_header_next_prev_button_light_theme">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_month_selected_marker_stroke_color_light_theme">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_primary">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_primary_dark">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="widget_today_number_text_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+    <color name="zoom_year_selected_number_color">@*com.samsung.android.calendar:color/color_control_activated</color>
+</resources>

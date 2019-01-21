@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="app_primary">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="app_secondary">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="in_app_card_notif_sign_in_text_color">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="intro_app_message_hint">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="note_color_purple">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="note_color_purple_darktheme">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="phone_ribbon_button_selected_color">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="sign_in_card_notif_selector_color">@*com.microsoft.office.onenote:color/accent_material_light</color>
+    <color name="signin_button_selector_color">@*com.microsoft.office.onenote:color/accent_material_light</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_deep_teal_200">#ffff5252</color>
+    <color name="material_deep_teal_50">#ffffebee</color>
+    <color name="material_deep_teal_100">#ffffcdd2</color>
+    <color name="material_deep_teal_300">#80ff5252</color>
+    <color name="material_deep_teal_500">#fff44336</color>
+    <color name="material_deep_teal_700">#ffd32f2f</color>
+</resources>

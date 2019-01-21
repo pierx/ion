@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="material_grey_300">@*com.android.documentsui:color/accent</color>
+	<color name="accent_dark">@*com.android.documentsui:color/accent</color>
+	<color name="action_mode">@*com.android.documentsui:color/accent</color>
+	<color name="root_activated_color">@*com.android.documentsui:color/accent</color>
+</resources>

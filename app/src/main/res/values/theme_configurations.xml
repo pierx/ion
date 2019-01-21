@@ -1,0 +1,15 @@
+<resources>
+    <string name="ThemeName">ion</string>
+    <string name="ThemeAuthor">pierx</string>
+    <string name="ThemeAuthorEmail">morayafort@gmail.com</string>
+    <string name="ThemeReadyRequirement">stock</string>
+    <string name="ThemeWallpaperSource" />
+    <bool name="ThemeSupportLegacy">true</bool>
+    <bool name="ThemeSupportSamsung">true</bool>
+    <string name="ThemeHeroOverride">auto</string>
+    <string-array name="ThemeChangelog">
+        <item>See PlayStore</item>
+    </string-array>
+
+    <style name="DialogStyle" parent="@android:style/Theme.Material.Dialog" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="info_target_hover_tint">@*android:color/accent_material_dark</color>
+	<color name="container_fastscroll_thumb_inactive_color">@*android:color/accent_material_dark</color>
+	<color name="container_fastscroll_thumb_active_color">@*android:color/accent_material_dark</color>
+	<color name="all_apps_grid_section_text_color">@*android:color/accent_material_dark</color>
+	<color name="accent">@*android:color/accent_material_dark</color>
+	<color name="launcher_accent_color">@*android:color/accent_material_dark</color>
+</resources>

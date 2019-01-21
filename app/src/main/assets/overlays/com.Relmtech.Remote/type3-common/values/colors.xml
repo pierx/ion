@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="bar_pressed_dark">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="bar_pressed_light">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="fab_color">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="review_green">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="step_pager_selected_last_tab_color">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="ur">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="ur_dark">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="ur_dark_pressed">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+    <color name="ur_pressed">@*com.Relmtech.RemotePaid:color/accent_material_light</color>
+</resources>

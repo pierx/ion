@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="avery_onboard_button_text">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="avery_onboard_button_text_hcc">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="avery_onboard_title">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="avery_onboard_title_hcc">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="brand_exchange">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="calendar_blue">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="hs__color_1565C0">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="hs__color_FF00B0FF">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="hs__color_FF1976D2">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="hs__color_FF1E88E5">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="hs__color_FF2196F3">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="lenssdk_color_3">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="outlook_blue">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="outlook_blue_dark">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="outlook_blue_hcc">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="outlook_blue_selected">@*com.microsoft.office.outlook:color/accent_material_light</color>
+    <color name="outlook_blue_selected_hcc">@*com.microsoft.office.outlook:color/accent_material_light</color>
+</resources>

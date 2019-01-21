@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="blueText">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="colorAccent">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="fabBackgroundColor">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="fancy_check_checked">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue100">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue500">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue600">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue700">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue800">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="google_blue900">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="quantum_googblue500">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="snackbar_button_color">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="task_complete_swipe_background">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="task_due_today_date">@*com.google.android.apps.tasks:color/accent_material_light</color>
+    <color name="task_due_today_header">@*com.google.android.apps.tasks:color/accent_material_light</color>
+</resources>

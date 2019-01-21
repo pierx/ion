@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="batterymeter_charge_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="batterymeter_bolt_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="light_mode_icon_color_single_tone">@*com.android.systemui:color/accent_material_light</color>
+    <color name="light_mode_icon_color_dual_tone_fill">@*com.android.systemui:color/accent_material_light</color>
+    <color name="dark_mode_icon_color_single_tone">@*com.android.systemui:color/accent_material_light</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">@*com.android.systemui:color/accent_material_light</color>
+    <color name="status_bar_battery_level_text_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_headsup_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_system_panel_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_text_button_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_expanded_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_expanded_clock_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_expanded_date_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_expanded_network_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="statusbar_expanded_network_emergency_only_text">@*com.android.systemui:color/accent_material_light</color>
+    <color name="status_bar_carrier_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="status_bar_clock_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="status_bar_temperature_text_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="status_bar_temperature_location_text_color">@*com.android.systemui:color/accent_material_light</color>
+    <color name="dark_mode_icon_color_dual_tone_fill_copy">@*com.android.systemui:color/accent_material_light</color>
+    <color name="light_mode_icon_color_dual_tone_fill_copy">@*com.android.systemui:color/accent_material_light</color>
+    <color name="batterymeter_charge_color_copy">@*com.android.systemui:color/accent_material_light</color>
+    <color name="batterymeter_bolt_color_copy">@*com.android.systemui:color/accent_material_light</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="history_btn_clear">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="history_result">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="back_key">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="converter_btn_select">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="converter_menu_selected">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="converter_spinner_select">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="keypad_equal_bg">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="keypad_symbol">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="number">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="result">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+    <color name="symbols">@*com.sec.android.app.popupcalculator:color/accent_material_light</color>
+</resources>

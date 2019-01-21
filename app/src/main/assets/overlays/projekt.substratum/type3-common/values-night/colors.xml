@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottombar_icon_inactive_tint">@*projekt.substratum:color/accent_material_light</color>
+    <color name="colorAccent">@*projekt.substratum:color/accent_material_light</color>
+    <color name="fab_background_color">@*projekt.substratum:color/accent_material_light</color>
+</resources>

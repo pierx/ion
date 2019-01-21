@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gamedetails__apl_list_item_extra_text_color">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="games_mvp_accent_green">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_apps_secondary">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_primary">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_primary_dark">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_primary_filter">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_secondary">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_secondary_dark">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_status_bar">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="play_games_theme_status_bar_dark">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="replay__pal_games_400">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="replay__pal_games_500">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="replay__pal_games_600">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="replay__pal_games_700">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="replay__pal_games_800">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="games_public_profile_public_visibility_text">@*com.google.android.play.games:color/accent_material_light</color>
+    <color name="games_leaderboard_score_me_score">@*com.google.android.play.games:color/accent_material_light</color>
+</resources>

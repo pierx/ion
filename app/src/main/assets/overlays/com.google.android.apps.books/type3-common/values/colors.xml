@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="books_corpora_dark_66pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_dark_70pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_dark_ripple">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_20pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_40pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_50pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_60pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_66pc">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="books_corpora_primary_66pc_vs_white">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="bz_edu_bg_color_1">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="cast_intro_overlay_button_background_color">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="cast_libraries_material_featurehighlight_outer_highlight_default_color">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="material_light_blue_600">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="material_light_blue_800">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_avatar_focused_outline">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_avatar_pressed_outline">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_light">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_primary">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_primary_disabled">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_primary_hover">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_primary_pressed">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_primary_v2">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_recents">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_secondary">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_secondary_v2">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_books_snackbar_button">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_commerce_primary">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_commerce_primary_hover">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_highlight_blue_fill">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="play_highlight_blue_outline">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="status_bar_underlay">@*com.google.android.apps.books:color/accent_material_light</color>
+    <color name="volumes_section_title_underline">@*com.google.android.apps.books:color/accent_material_light</color>
+</resources>

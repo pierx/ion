@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="dialer_secondary_color">@*com.android.dialer:color/dialer_theme_color</color>
+
+	<color name="actionbar_background_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="actionbar_background_color_dark">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="dialer_theme_color_20pct">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="dialer_theme_color_dark">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="tab_unread_count_background_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="shortcut_add_contact_foreground_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="section_header_text_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<!--<color name="incall_background_gradient_top">#e91141bb</color>-->
+	<!--<color name="incall_background_multiwindow">#e91141bb</color>-->
+	<!--<color name="incall_background_gradient_middle">#e91141bb</color>-->
+
+	<color name="button_background_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_action_text">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_header_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_missed_call_highlight_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_voicemail_highlight_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_voicemail_status_action_text_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="dialer_red_highlight_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="dialpad_primary_text_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="dialtacts_theme_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="exposed_call_log_header">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="exposed_call_log_voicemail_status_action_text">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="exposed_floating_action_button_solid">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="floating_action_button_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="frequently_contacted_title_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="glowpad_end_call_widget_normal_tint">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="incall_call_banner_background_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="letter_tile_blue_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="letter_tile_red_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="missed_call">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="remove_highlighted_text_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="text_highlight_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="voicemail_playback_seek_bar_already_played">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="button_selected_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="call_log_extras_text_color">@*com.android.dialer:color/dialer_theme_color</color>
+	<color name="letter_tile_blue_color_dark">@*com.android.dialer:color/dialer_theme_color</color>
+</resources>

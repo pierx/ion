@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.google.android.calculator:color/accent_material_light</color>
+    <color name="calculator_clear_flood">@*com.google.android.calculator:color/accent_material_light</color>
+    <color name="google_blue_600">@*com.google.android.calculator:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.calculator:color/accent_material_light</color>
+</resources>

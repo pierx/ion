@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@*com.android.settings:id/dashboard_tile"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:background="@*com.android.settings:drawable/selectable_card"
+              android:clickable="true"
+              android:focusable="true"
+              android:gravity="center_vertical"
+              android:minHeight="@*com.android.settings:dimen/dashboard_tile_minimum_height">
+
+    <ImageView
+        android:id="@android:id/icon"
+        android:layout_width="24.0dip"
+        android:layout_height="24.0dip"
+        android:layout_marginEnd="24.0dip"
+        android:layout_marginStart="24.0dip"
+        android:scaleType="centerInside"
+        android:tint="@*com.android.settings:color/icon_accent"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@android:id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal"
+            android:singleLine="true"
+            android:textAppearance="@*com.android.settings:style/TextAppearance.TileTitle"/>
+
+        <TextView
+            android:id="@android:id/summary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingEnd="24.0dip"
+            android:textAppearance="@*com.android.settings:style/TextAppearance.Small"
+            android:textColor="?android:textColorSecondary"/>
+    </LinearLayout>
+</LinearLayout>

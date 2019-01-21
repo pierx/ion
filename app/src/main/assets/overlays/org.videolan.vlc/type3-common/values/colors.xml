@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange500transparent">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange300">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange400">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange500">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange600">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange700">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange800">@*org.videolan.vlc:color/accent_material_light</color>
+    <color name="orange900">@*org.videolan.vlc:color/accent_material_light</color>
+</resources>

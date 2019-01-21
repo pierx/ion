@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="setup_wizard_color_accent_dark">@*com.android.settings:color/icon_accent</color>
+    <color name="setup_wizard_color_accent_light">@*com.android.settings:color/icon_accent</color>
+    <color name="theme_accent">@*com.android.settings:color/icon_accent</color>
+    <color name="switch_accent_color">@*com.android.settings:color/icon_accent</color>
+    <color name="lock_pattern_view_regular_color">@*com.android.settings:color/icon_accent</color>
+    <color name="accent_material_light">@*com.android.settings:color/icon_accent</color>
+    <color name="accent_material_dark">@*com.android.settings:color/icon_accent</color>
+    <color name="material_deep_teal_200">@*com.android.settings:color/icon_accent</color>
+    <color name="material_deep_teal_500">@*com.android.settings:color/icon_accent</color>
+    <color name="preference_fallback_accent_color">@*com.android.settings:color/icon_accent</color>
+    <color name="running_processes_apps_ram">@*com.android.settings:color/icon_accent</color>
+    <color name="summary_default_start">@*com.android.settings:color/icon_accent</color>
+    <color name="storage_summary_title_color">@*com.android.settings:color/icon_accent</color>
+    <color name="condition_card_icon_color">@*com.android.settings:color/icon_accent</color>
+    <color name="condition_card_title_text_color">@*com.android.settings:color/icon_accent</color>
+    <color name="condition_card_expander_color">@*com.android.settings:color/icon_accent</color>
+    <color name="condition_card_first_button_text_color">@*com.android.settings:color/icon_accent</color>
+    <color name="condition_card_second_button_text_color">@*com.android.settings:color/icon_accent</color>
+    <color name="usage_graph_dots">@*com.android.settings:color/icon_accent</color>
+
+    <color name="homepage_accessibility_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_accounts_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_app_and_notification_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_battery_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_connected_device_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_display_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_generic_icon_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_network_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_security_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_sound_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_storage_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_support_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_system_background">@*com.android.settings:color/icon_accent</color>
+
+    <color name="homepage_nitrogen_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_extensions_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_owlsnest_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_liquid_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_crdroid_background">@*com.android.settings:color/icon_accent</color>
+    <color name="homepage_havoc_background">@*com.android.settings:color/icon_accent</color>
+    <color name="omni_logo_color">@*com.android.settings:color/icon_accent</color>
+
+</resources>

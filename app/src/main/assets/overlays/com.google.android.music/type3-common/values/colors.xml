@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="accent_material_dark">@*com.google.android.music:color/accent_material_light</color>
+	<color name="app_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="app_color_accented">@*com.google.android.music:color/accent_material_light</color>
+	<color name="common_signin_btn_default_background">@*com.google.android.music:color/accent_material_light</color>
+	<color name="current_text">@*com.google.android.music:color/accent_material_light</color>
+	<color name="download_arc_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="empty_screen_learn_more_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="gearhead_color_accent">@*com.google.android.music:color/accent_material_light</color>
+	<color name="gearhead_primary_color_dark">@*com.google.android.music:color/accent_material_light</color>
+	<color name="lb_default_search_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="lb_speech_orb_recording">@*com.google.android.music:color/accent_material_light</color>
+	<color name="leanback_fastlane_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="leanback_launcher_background_orange">@*com.google.android.music:color/accent_material_light</color>
+	<color name="leanback_search_orb_background_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="link_text_material_dark">@*com.google.android.music:color/accent_material_light</color>
+	<color name="link_text_material_light">@*com.google.android.music:color/accent_material_light</color>
+	<color name="material_deep_teal_200">@*com.google.android.music:color/accent_material_light</color>
+	<color name="material_deep_teal_500">@*com.google.android.music:color/accent_material_light</color>
+	<color name="music_banner_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="nowplaying_progressbar_progress">@*com.google.android.music:color/accent_material_light</color>
+	<color name="nus_title_text_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_card_ad_badge_default_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_movies_primary">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_music_light">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_music_primary">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_music_primary_v2">@*com.google.android.music:color/accent_material_light</color>
+	<color name="play_music_secondary">@*com.google.android.music:color/accent_material_light</color>
+	<color name="side_drawer_icon_selected_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="signup_header_text">@*com.google.android.music:color/accent_material_light</color>
+	<color name="sound_search_card_bg">@*com.google.android.music:color/accent_material_light</color>
+	<color name="tutorial_action_item">@*com.google.android.music:color/accent_material_light</color>
+	<color name="wear_download_pie_chart_color">@*com.google.android.music:color/accent_material_light</color>
+	<color name="xdi_background">@*com.google.android.music:color/accent_material_light</color>
+</resources>

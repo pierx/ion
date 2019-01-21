@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="current_user_border_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="accent_material_dark">@*com.android.systemui:color/accent_material_light</color>
+	<color name="material_deep_teal_200">@*com.android.systemui:color/accent_material_light</color>
+	<color name="material_deep_teal_500">@*com.android.systemui:color/accent_material_light</color>
+	<color name="preference_fallback_accent_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="notification_guts_slider_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="notification_guts_secondary_slider_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="switch_accent_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="navbar_tuner_text_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="smartbar_editor_popup_icon_fill">@*com.android.systemui:color/accent_material_light</color>
+	<color name="smartbar_editor_popup_horiz_separator">@*com.android.systemui:color/accent_material_light</color>
+	<color name="docked_divider_background">@*com.android.systemui:color/accent_material_light</color>
+	<color name="ksh_application_group_color">@*com.android.systemui:color/accent_material_light</color>
+	<color name="ksh_key_item_color">@*com.android.systemui:color/accent_material_light</color>
+</resources>

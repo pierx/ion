@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_select_text_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="tab_indicator_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="primary_dark_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_repeat_toggle_btn_text_color_select">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_detail_sub_text">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_cancel_done_text">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_list_repeat_select_on">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="floating_button_bg">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="clock_all_checkbox">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="clock_all_checkbox_dim">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="primary_checkBox">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="stopwatch_button_start_textcolor">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_time_ongoing_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_circle_ongoing_start_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_circle_ongoing_end_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_circle_pointer_ongoing_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_preset_item_stroke_selected_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="timer_preset_popup_time_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="stopwatch_lap_item_diff_textcolor">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="stopwatch_extra_time_textcolor">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="stopwatch_button_resume_textcolor">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="about_clock_ic_tint_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_slider_bar_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_slider_thumb_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="primary_menu_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="alarm_actionbar_back_icon_tint_color">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="worldclock_matched_textcolor">@*com.sec.android.app.clockpackage:color/primary</color>
+    <color name="worldclock_search_bar_current_location_icon_tint_color">@*com.sec.android.app.clockpackage:color/primary</color>
+</resources>

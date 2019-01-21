@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="common_signin_btn_default_background">@*com.android.messaging:color/accent_material_light</color>
+	<color name="wallet_highlighted_text_holo_light">@*com.android.messaging:color/accent_material_light</color>
+	<color name="wallet_highlighted_text_holo_dark">@*com.android.messaging:color/accent_material_light</color>
+	<color name="wallet_holo_blue_light">@*com.android.messaging:color/accent_material_light</color>
+	<color name="wallet_link_text_light">@*com.android.messaging:color/accent_material_light</color>
+	<color name="place_picker_center_bar_title">@*com.android.messaging:color/accent_material_light</color>
+	<color name="place_picker_center_bar_hint">@*com.android.messaging:color/accent_material_light</color>
+	<color name="material_google_blue_500">@*com.android.messaging:color/accent_material_light</color>
+	<color name="chip_background_invalid">@*com.android.messaging:color/accent_material_light</color>
+	<color name="abc_search_url_text_normal">@*com.android.messaging:color/accent_material_light</color>
+	<color name="accent_material_dark">@*com.android.messaging:color/accent_material_light</color>
+	<color name="highlighted_text_material_dark">@*com.android.messaging:color/accent_material_light</color>
+	<color name="highlighted_text_material_light">@*com.android.messaging:color/accent_material_light</color>
+	<color name="link_text_material_dark">@*com.android.messaging:color/accent_material_light</color>
+	<color name="link_text_material_light">@*com.android.messaging:color/accent_material_light</color>
+	<color name="material_deep_teal_200">@*com.android.messaging:color/accent_material_light</color>
+	<color name="material_deep_teal_500">@*com.android.messaging:color/accent_material_light</color>
+	<color name="conversation_list_error">@*com.android.messaging:color/accent_material_light</color>
+	<color name="message_download_failed_timestamp_text">@*com.android.messaging:color/accent_material_light</color>
+	<color name="compose_message_send_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="message_bubble_color_selected">@*com.android.messaging:color/accent_material_light</color>
+	<color name="color_filter_base_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="audio_progress_bar_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="notification_accent_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="notification_warning_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="unblock_item_text_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="button_bar_action_button_text_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="contact_picker_button_text_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="widget_reply_open_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="widget_reply_mms_color">@*com.android.messaging:color/accent_material_light</color>
+	<color name="sticker_set_overview_download_button_color">@*com.android.messaging:color/accent_material_light</color>
+</resources>

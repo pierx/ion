@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*com.android.browser:color/accent</color>
+    <color name="primary_dark">@*com.android.browser:color/accent</color>
+    <!--<color name="accent">@*com.android.browser:color/accent</color>-->
+    <color name="floating_action_button_touch_tint">@*com.android.browser:color/accent</color>
+    <color name="tabFaviconBackground">@*com.android.browser:color/accent</color>
+    <color name="qc_normal">@*com.android.browser:color/accent</color>
+    <color name="qc_selected">@*com.android.browser:color/accent</color>
+    <color name="qc_sub">@*com.android.browser:color/accent</color>
+    <color name="qc_tab_nr">@*com.android.browser:color/accent</color>
+</resources>

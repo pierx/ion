@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="blue_4">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="bt_toastbar_button_background">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="callout_drawable_background_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="current_account_banner_bg">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="ingest_date_tile_text">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_accent">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_button_pressed">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_dark_blue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_duration_dialog_save">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_happy_blue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_scrubber_played_bar">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="mm_video_trim_view_container_border">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="photos_album_enrichment_ui_map_background">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="photos_backup_apiservice_onboarding_accent">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="photos_backup_apiservice_onboarding_primary">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="photos_carousel_common_animations_bg_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="photos_theme_button_dark_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_blue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_googblue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_googblue400">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_googblue500">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_googblue600">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_lightblue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="quantum_lightblue500">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="search_query_highlight_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="text_blue">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="video_trim_view_container_border">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="autocomplete_highlight_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+    <color name="autocomplete_selected_color">@*com.google.android.apps.photos:color/accent_material_light</color>
+</resources>

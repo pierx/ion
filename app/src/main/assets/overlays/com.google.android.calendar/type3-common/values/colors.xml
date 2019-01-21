@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="accent_material_dark">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="attachment_color_drive_doc">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="attachment_color_text">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="attachment_color_word">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="calendar_primary">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="chip_focused_color">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="chips_dropdown_background_activated">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="chips_dropdown_permission_text">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="conversation_view_text_color_link_blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="default_find_time_event_color">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="default_room_booking_color">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="duration_picker_gray">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="edit_event_edit_text_link">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="edit_event_text_link">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="event_info_checked_response">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="google_blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="no_connection_retry">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="oobe_richness_background">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="oobe_smartmail_background">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="preference_option_selected">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="quantum_googblue500">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="recurrence_edit_event_text_link">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="suggestion_edit_text_chip_background_selected">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="swipe_refresh_color1">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="text_color_blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="widget_header_normal">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="widget_text_day_first">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="hats_lib_open_text_underline">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="hats_lib_prompt_take_survey_blue">@*com.google.android.calendar:color/accent_material_light</color>
+    <color name="tz_picker_dark_highlight_text_color">@*com.google.android.calendar:color/accent_material_light</color>
+</resources>

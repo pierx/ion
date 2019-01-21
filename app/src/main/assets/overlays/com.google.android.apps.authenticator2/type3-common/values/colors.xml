@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="dark_blue">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="circular_button_normal">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="circular_button_pressed">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="accent_material_dark">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="countdownIndicator">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="actionBarColor">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="statusBarColor">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="google_blue_100">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="google_blue_500">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="google_blue_700">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="userRowSelectedBackgroundColor">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="userRowPinValueColor">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+    <color name="howItWorksBackgroundColor">@*com.google.android.apps.authenticator2:color/accent_material_light</color>
+</resources>

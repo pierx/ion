@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.oasisfeng.greenify:color/accent_material_light</color>
+    <color name="darker_green">@*com.oasisfeng.greenify:color/accent_material_light</color>
+    <color name="green">@*com.oasisfeng.greenify:color/accent_material_light</color>
+    <color name="light_green">@*com.oasisfeng.greenify:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.oasisfeng.greenify:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.oasisfeng.greenify:color/accent_material_light</color>
+</resources>

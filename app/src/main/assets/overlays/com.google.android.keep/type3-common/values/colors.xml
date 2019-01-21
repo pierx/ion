@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">@*com.google.android.keep:color/accent_material_light</color>
+    <color name="primary_color_dark">@*com.google.android.keep:color/accent_material_light</color>
+    <color name="notification_background_color">@*com.google.android.keep:color/accent_material_light</color>
+    <color name="scrimmed_browse_status_bar_color">@*com.google.android.keep:color/accent_material_light</color>
+    <!--<color name="ink_accent">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="ink_tabbar_active">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="accent_material_dark">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="material_deep_teal_200">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="material_deep_teal_500">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="chips_dropdown_background_activated">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="chips_dropdown_permission_text">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="recurrence_edit_event_text_link">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="blue">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="accent_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="toast_bar_action_text_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="trash_action_bar_background_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="rename_dialog_button_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="notification_background_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="swipe_refresh_color3">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="label_editor_checkbox_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="yellow">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="sync_off_banner_action_button_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="zero_search_more_toggle_button_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="zero_search_dark_background_color">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="quantum_googblue">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="explore_empty_view_link">@*com.google.android.keep:color/accent_material_light</color>-->
+    <!--<color name="explore_loading_spinner">@*com.google.android.keep:color/accent_material_light</color>-->
+</resources>

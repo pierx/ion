@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="blue_600">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="google_blue_500">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="google_blue_600">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="hats_lib_open_text_underline">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="hats_lib_prompt_take_survey_blue">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="send_message_toast_color">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+    <color name="send_video_message_background">@*com.google.android.apps.tachyon:color/accent_material_light</color>
+</resources>

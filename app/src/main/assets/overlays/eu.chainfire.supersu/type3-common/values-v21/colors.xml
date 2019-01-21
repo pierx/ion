@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_teal_50">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_100">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_200">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_300">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_400">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_500">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_600">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_700">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_800">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_900">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+    <color name="material_teal_950">@*eu.chainfire.supersu:color/holo_blue_bright</color>
+</resources>

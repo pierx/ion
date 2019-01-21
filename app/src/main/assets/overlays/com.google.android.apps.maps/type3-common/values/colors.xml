@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="blue_dot_tutorial_outer_circle_blue_fill">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="carousel_background">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="gdi_colorPrimary">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="gdi_colorPrimary_pressed">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="google_blue">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="main_blue">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="new_location_accuracy_fill">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="new_location_accuracy_line">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_500">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_500_with_20pct_black">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_600">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_700">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_800">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_900">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_accent_400">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="qu_google_blue_alpha_26">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblue">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblue500">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblue600">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblue700">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblue800">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="quantum_googblueA200">@*com.google.android.apps.maps:color/accent_material_light</color>
+    <color name="tooltip_background_color">@*com.google.android.apps.maps:color/accent_material_light</color>
+</resources>

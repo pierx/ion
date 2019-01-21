@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="accent_material_dark">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="blue_500">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="blue_700">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="blue_800">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="colorAccent">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="colorPrimary">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="colorPrimaryDark">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_blue_500">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_blue_700">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_blue_800">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_material_blue_600">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_material_blue_800">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="md_pink_A200">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="pink_A200">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="primary">@*de.toastcode.screener:color/accent_material_light</color>
+    <color name="primarydark">@*de.toastcode.screener:color/accent_material_light</color>
+</resources>

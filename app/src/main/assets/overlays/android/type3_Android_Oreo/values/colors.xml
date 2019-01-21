@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*android:color/material_deep_teal_200</color>
+    <color name="accent_material_light">@*android:color/material_deep_teal_200</color>
+    <color name="primary_material_settings">@*android:color/material_deep_teal_200</color>
+    <color name="primary_dark_material_settings">@*android:color/material_deep_teal_200</color>
+    <color name="secondary_material_settings">@*android:color/material_deep_teal_200</color>
+    <color name="tertiary_material_settings">@*android:color/material_deep_teal_200</color>
+    <color name="quaternary_material_settings">@*android:color/material_deep_teal_200</color>
+    <color name="holo_blue_light">@*android:color/material_deep_teal_200</color>
+    <color name="holo_blue_dark">@*android:color/material_deep_teal_200</color>
+    <color name="holo_blue_bright">@*android:color/material_deep_teal_200</color>
+</resources>

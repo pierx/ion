@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*com.xda.labs:color/accent_material_light</color>
+    <color name="accent_material_dark">@*com.xda.labs:color/accent_material_light</color>
+    <color name="accent_translucent">@*com.xda.labs:color/accent_material_light</color>
+    <color name="blue">@*com.xda.labs:color/accent_material_light</color>
+    <color name="colorAccent">@*com.xda.labs:color/accent_material_light</color>
+    <color name="cpb_blue">@*com.xda.labs:color/accent_material_light</color>
+    <color name="customactivityoncrash_primary">@*com.xda.labs:color/accent_material_light</color>
+    <color name="fab_color">@*com.xda.labs:color/accent_material_light</color>
+    <color name="fab_orange_bright">@*com.xda.labs:color/accent_material_light</color>
+    <color name="fab_orange_dark">@*com.xda.labs:color/accent_material_light</color>
+    <color name="fab_orange_light">@*com.xda.labs:color/accent_material_light</color>
+    <color name="holo_blue_bright">@*com.xda.labs:color/accent_material_light</color>
+    <color name="holo_orange_light">@*com.xda.labs:color/accent_material_light</color>
+    <color name="login_modal_first">@*com.xda.labs:color/accent_material_light</color>
+    <color name="login_modal_forth">@*com.xda.labs:color/accent_material_light</color>
+    <color name="main_xda_color">@*com.xda.labs:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.xda.labs:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.xda.labs:color/accent_material_light</color>
+    <color name="md_material_blue_600">@*com.xda.labs:color/accent_material_light</color>
+    <color name="user_title_orange">@*com.xda.labs:color/accent_material_light</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_signin_btn_default_background">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="design_textinput_error_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="accent_material_dark">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="material_deep_teal_200">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="dialer_theme_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="dialer_theme_color_dark">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="dialtacts_theme_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="actionbar_background_color_dark">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="call_subject_limit_exceeded">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="button_background_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="button_selected_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="glowpad_end_call_widget_normal_tint">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="dialer_red_highlight_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="call_log_voicemail_highlight_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="remove_highlighted_text_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="missed_call">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="blocked_number_accent_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="blocked_number_block_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="letter_tile_red_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="letter_tile_blue_color">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="letter_tile_blue_color_dark">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="call_hangup_background">@*com.google.android.dialer:color/accent_material_light</color>
+    <color name="gallery_item_image_color">@*com.google.android.dialer:color/accent_material_light</color>
+</resources>

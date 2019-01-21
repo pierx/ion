@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">@*com.android.contacts:color/primary_color</color>
+    <color name="dialer_theme_color_dark">@*com.android.contacts:color/primary_color</color>
+    <color name="ic_contacts_launcher_background">@*com.android.contacts:color/primary_color</color>
+
+    <color name="action_bar_background">@*com.android.contacts:color/primary_color</color>
+    <color name="actionbar_background_color">@*com.android.contacts:color/primary_color</color>
+    <color name="actionbar_background_color_dark">@*com.android.contacts:color/primary_color</color>
+    <color name="primary_color_dark">@*com.android.contacts:color/primary_color</color>
+    <color name="search_back_button_tint_color">@*com.android.contacts:color/primary_color</color>
+    <color name="search_shortcut_icon_color">@*com.android.contacts:color/primary_color</color>
+    <color name="dialtacts_theme_color">@*com.android.contacts:color/primary_color</color>
+    <color name="floating_action_button_icon_color">@*com.android.contacts:color/primary_color</color>
+</resources>

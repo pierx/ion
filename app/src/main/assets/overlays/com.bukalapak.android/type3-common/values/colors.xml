@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="barang_price">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bg_sidemenu">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bg_standard">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bl_dark">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bl_darkred">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bl_pink">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bl_red">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="bukalapak">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="chat_primary">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="chat_primary_dark">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="cherry">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="colorBackground">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="color_header">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="md_pink_700">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="md_pink_A200">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="my_buuble_chat">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="purpleRed">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="red_down">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="red_pink">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="ruby">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="rubyTransparent">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="ruby_new">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="ruby_new_disabled">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="url_text_in_chat">@*com.bukalapak.android:color/accent_material_light</color>
+    <color name="x_dark_ruby">@*com.bukalapak.android:color/accent_material_light</color>
+</resources>
