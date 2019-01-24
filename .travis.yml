@@ -1,20 +1,18 @@
 language: android
 
 jdk:
-- openjdk8
+- oraclejdk8
 
 android:
   components:
   - tools
   - build-tools-28.0.3
   - android-28
-  - extra-google-m2repository
-  - extra-android-m2repository
   licenses:
   - ".+"
 
 script:
-- "./gradlew clean assembleDebug"
+- "./gradlew assembleDebug"
 
 notifications:
   email: false
