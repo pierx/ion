@@ -19,7 +19,7 @@ script:
 notifications:
   email: false
 
-sudo: false
+sudo: required
 
 cache:
   directories:
@@ -28,4 +28,5 @@ cache:
   - "$ANDROID_HOME"
 
 before_install:
+  - chmod +x gradlew
   - yes | sdkmanager "platforms;android-28"
