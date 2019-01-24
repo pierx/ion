@@ -101,7 +101,6 @@ Thumbs.db
 #############################################################################
 .DS_Store
 *.jks
-*.json
-*.properties
 *.ini
 /tmp/
+/keystore.properties
