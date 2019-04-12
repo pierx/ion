@@ -4,9 +4,10 @@
     <string name="ThemeAuthorEmail">morayafort@gmail.com</string>
     <string name="ThemeReadyRequirement">stock</string>
     <string name="ThemeWallpaperSource" />
+    <string name="ThemeHeroOverride">auto</string>
     <bool name="ThemeSupportLegacy">true</bool>
     <bool name="ThemeSupportSamsung">true</bool>
-    <string name="ThemeHeroOverride">auto</string>
+    <bool name="ThemeHideDefaultType3Option">true</bool>
     <string-array name="ThemeChangelog">
         <item>See PlayStore</item>
     </string-array>
